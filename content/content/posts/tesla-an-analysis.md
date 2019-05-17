@@ -127,8 +127,9 @@ Full Self Driving (FSD) isn't achievable within 10 years
 They open sourced all their patents - any competitor can use their technology
 China
 
-# What makes Tesla have potential
-EV vehicles are very likely the future. I believe the vast majority of gas cars (if not all) will be replaced EVs by 2050 in the US. (Gov't is incentivized to reduce pollution, reduce dependency on foreign oil, protect its citizens)
+#### What makes Tesla have potential
+EV vehicles are very likely the future. I believe the vast majority of gas cars (if not all) will be replaced EVs by 2050 in the US. (energy efficiency, Gov't is incentivized to reduce pollution, reduce dependency on foreign oil, protect its citizens) - ener
+This a huge 
 Product quality (yes, this was repeated)
 
 Electric Car
