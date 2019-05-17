@@ -6,17 +6,17 @@ menu:
     parent: tutorials
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
-title: What I'm learning in 2019
+title: What gamiing has taught me
 description: 
 weight: 10
 ---
 
 
-### **Introduction**
+### **Never give up**
 
+### You must study it AND do it
 
-
-### **Spanish**
+### Many competitive games are like real-time chess games
 
 ### **Sales**
 

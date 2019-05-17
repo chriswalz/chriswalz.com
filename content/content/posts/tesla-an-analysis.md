@@ -15,9 +15,11 @@ weight: 10
 
 # **Introduction**
 
+This post will be holistic overview. It has an outlook of about 20 to 30 years (assuming it makes it that far). Warning this post is long and in depth because that's the only way to give it a fair analysis. I also plan to treat this post as a live document in order to make adjustments to my analysis as more information becomes available. Also note that I'll attempt to reason by analogy. I'll focus more on a first principles approach. 
+
 I first heard about Elon Musk circa 2008. My cousin was telling me how there's a private space company led by a guy named Elon Musk. It seemed so absurd - how could a private company afford to be launching rockets? Only the government could manage to do something like that. Soon after I ended up reading about Elon Musk. Ever since then I've been an avid listener of his ideas and goals. I believe after studying him for this long I have a strong understanding of his ambitions and his motivations. 
 
-Elon has started many companies. Interestingly, Tesla was not one of them. Tesla (Tesla Motors at the time) was founded in 2003 by Martin Eberhard and Marc Tarpenning neither of which are working at the company anymore although they are both shareholders. It's had a tumultuous history but its still kicking and screaming in 2019. 
+Elon has started many companies. Interestingly, Tesla was not one of them. Tesla ((originally called Tesla Motors, Inc.) was founded in 2003 by Martin Eberhard and Marc Tarpenning neither of which are working at the company anymore although they are both shareholders. It's had a tumultuous history but its still kicking and screaming in 2019. 
 
 Let's take a look at some graphs to get a sense of Tesla' progress since 2010 (when they went public)
 
@@ -32,7 +34,7 @@ I also want to acknowledge that I (as is everyone else) is subject to the human 
 
 I do my best to reduce the affect of these biases in my analysis.
 
-# A Note on the Stock Market as a whole
+# A Note on Stock Markets
 
 I believe in a weak version of the EMH - that every stock price is a rough approximation of its true value. I know this a bit controversial; however, the way I see it is that I respect the huge agglomeration of minds that together are in a chaotic yet beautiful constant state of valuing companies. I respect that giant mass of distributed brain power (machines too) and believe it is much smarter than me (at least most of the time 😊). The stock market is considered a level 2 chaotic system so needless to say it's difficult for an observer to predict future value of a stock. Also, humans are emotional (perhaps their algorithmic machines are too). Kahneman in "Thinking Fast and Slow" has some interesting thoughts on this and does give merit to why the markets are NOT very efficient.  
 
@@ -52,7 +54,8 @@ That means that if an ICE vehicle gets 30MPG an EV would get 90MPGe.
 
 ## Maintenance Costs 
 
-Tesla insurance. 
+https://hbr.org/2019/05/teslas-strong-brand-gives-it-unusual-expansion-potential
+Tesla insurance product. 
 
 # Brand Perception
 
@@ -84,10 +87,20 @@ Cash
 
 Burning cash or aggressive growth? 
 
+# Macroeconomic factors 
 
+# Elon's Compensation Plan
 
-
-
+"On January 21, 2018, the board of Tesla, Inc. (Tesla), an electric car and clean energy company,
+ approved an unusual executive compensation plan for CEO Elon Musk. Most compensation packages
+ for U.S. executives included a mix of a base salary and short- and long-term incentives, but Tesla’s plan
+ bucked the norm. Per the plan’s terms, Musk would only be paid if Tesla achieved a series of ambitious
+ market capitalization (cap), revenue, and EBITDA milestones. He would receive 1.69 million Tesla
+ shares—equivalent to about 1% of total outstanding common stock—if the company’s value (at the
+ time, $59 billion) increased to $100 billion and he achieved an operational target (see Exhibit 1 for these
+ targets).3 For each additional $50 billion in value that Tesla realized (plus attainment of operational
+ targets), Musk would receive an additional 1.69 million company shares. If he met all targets, he stood
+ to gain some $55 billion in equity. But if he failed, he would not be compensated at all" - Harvard Business Review
 
 # Long term outlook
 
@@ -109,7 +122,7 @@ Yes, these risk factors identified by Tesla
 I recommend reading the risk factors filed in Tesla's 10k
 
 #Some negatives claims about Tesla 
-They don't have enough demand vs delivery - https://www.fool.com/investing/2019/04/28/elon-musk-comment-should-terrify-tesla-investors.aspx
+They don't have enough demand vs delivery - https://www.fool.com/investing/`019/04/28/elon-musk-comment-should-terrify-tesla-investors.aspx
 Full Self Driving (FSD) isn't achievable within 10 years
 They open sourced all their patents - any competitor can use their technology
 China
@@ -128,6 +141,8 @@ what patents does it have?
 What companies does it own? 
 
 it has 22 billions dollars in assets 
+
+cost cutting, dependency on debt 
 
 # Concluding Thoughts
 
@@ -150,3 +165,5 @@ https://www.macrotrends.net/
 https://www.fool.com/
 
 https://www.consumerreports.org/cro/index.htm
+
+https://hbr.org/
