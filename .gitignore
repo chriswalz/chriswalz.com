@@ -1,3 +1,5 @@
 # ignore intellij
 .idea
 
+.idea/workspace.xml
+public

@@ -38,9 +38,11 @@ I do my best to reduce the affect of these biases in my analysis.
 
 I believe in a weak version of the EMH - that every stock price is a rough approximation of its true value. I know this a bit controversial; however, the way I see it is that I respect the huge agglomeration of minds that together are in a chaotic yet beautiful constant state of valuing companies. I respect that giant mass of distributed brain power (machines too) and believe it is much smarter than me (at least most of the time 😊). The stock market is considered a level 2 chaotic system so needless to say it's difficult for an observer to predict future value of a stock. Also, humans are emotional (perhaps their algorithmic machines are too). Kahneman in "Thinking Fast and Slow" has some interesting thoughts on this and does give merit to why the markets are NOT very efficient.  
 
+
 # Electric Vehicles vs. Internal Combustion Engine Vehicles
 
 It's important to think about the automotive market as a whole. Will EV's change the market forever? Or is it just a fad? ICE vehicles have dominated the market ever since horses went out of style. There have been various attempts over the years to move on from ICE using hydrogen fuel cells, hybrids and EV's. I believe that the market will eventually draw towards the best type. How do to define the best? Cost to build, energy efficiency, maintenance costs.  I focus on ICE and EV's in this post.
+
 
 ## Build Costs
 
@@ -57,7 +59,38 @@ That means that if an ICE vehicle gets 30MPG an EV would get 90MPGe.
 https://hbr.org/2019/05/teslas-strong-brand-gives-it-unusual-expansion-potential
 Tesla insurance product. 
 
-# Brand Perception
+
+
+# Health of Tesla - Financial Document Analysis
+
+## Cash 
+
+Elon Musk semi regular sounds out emails to all of his employees. Some of them are quite positive. Many are alarm bells and scary to read - you can read the full one [here](https://www.cnbc.com/2019/05/17/elon-musk-calls-for-cost-control-in-memo-to-employees.html). I'll highlight a particularly interesting yet unsettling quote here: 
+
+> It is important to bear in mind that we lost $700 million in the first quarter this year, which is over $200 million per month. Investors nonetheless were supportive of our efforts and agreed to give us $2.4 billion (our net proceeds) to show that we can be financially sustainable. 
+>
+> That is a lot of money, but actually only gives us approximately ten months at the first-quarter burn rate to achieve breakeven. It’s vital that we respect the faith investors have shown in Tesla, but it will require great effort to do so.
+
+Where is all the money going? Let's take a look at a breakdown of their spending
+
+
+
+If tesla make is through the short term many of it's R&D will benefit in the future 
+
+https://www.macrotrends.net/stocks/charts/TSLA/tesla/gross-margin
+
+![](/images/tesla/tesla_gross_margin.png)
+
+Burning cash or aggressive growth? 
+
+## Supply & Demand
+
+## Some graphs
+
+https://eu-evs.com/
+
+
+## Brand Perception
 
 ## Customer Satisfaction 
 
@@ -81,15 +114,13 @@ Other parts
 
 Robotaxis, Robotrucks, safety, laws against human drivers? 
 
-# Health of Tesla - Financial Document Analysis
-
-Cash
-
-Burning cash or aggressive growth? 
-
 # Macroeconomic factors 
 
-# Elon's Compensation Plan
+# Elon Musk
+
+## Vision & Drive
+
+## The Compensation Plan 
 
 "On January 21, 2018, the board of Tesla, Inc. (Tesla), an electric car and clean energy company,
  approved an unusual executive compensation plan for CEO Elon Musk. Most compensation packages
@@ -147,13 +178,11 @@ cost cutting, dependency on debt
 
 # Concluding Thoughts
 
-Whether you hate or love tesla or one of the few who are indifferent, few could argue that Tesla isn't accomplishing their mission - to accelerate the world’s transition to sustainable energy. I personally think has had a very strong net good on the world. I hope for their continued success and believe they will succeed which is why I'm an owner of Tesla stock myself. 
+Whether you hate or love tesla, few could argue that Tesla isn't accomplishing their mission - to accelerate the world’s transition to sustainable energy. I personally think has had a very strong net good on the world. I hope for their continued success and believe they will succeed which is partly why I own Tesla stock myself. 
 
 Please share you thoughts!
 
-# What are my sources?
-
-Wikipedia - yeah it's not "source" but it has good content
+# Sources
 
 https://ir.tesla.com/events-and-presentations
 
@@ -168,3 +197,9 @@ https://www.fool.com/
 https://www.consumerreports.org/cro/index.htm
 
 https://hbr.org/
+
+https://eu-evs.com/
+
+https://www.wikipedia.org/
+
+https://www.cnbc.com
