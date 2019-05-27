@@ -1,6 +1,7 @@
 ---
 author: "Chris Walz"
 date: 2019-04-28
+draft: true
 menu:
   main:
     parent: tutorials
@@ -18,12 +19,15 @@ weight: 10
 
 ### **Spanish**
 
-### **Sales**
-
-### **Marketing**
-
 ### **Books**
 
 ### Blockchain
 
 ### The blending of Hardware + Software
+
+### Investing 
+
+### Entrepreneurship
+Sales
+
+Marketing

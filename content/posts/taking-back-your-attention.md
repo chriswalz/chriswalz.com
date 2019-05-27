@@ -1,6 +1,7 @@
 ---
 author: "Chris Walz"
 date: 2019-04-28
+draft: true
 linktitle: Taking Back Your Attention
 menu:
   main:

@@ -1,12 +1,13 @@
 ---
 author: "Chris Walz"
 date: 2019-04-28
+draft: true
 menu:
   main:
     parent: tutorials
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
-title: What gamiing has taught me
+title: What Gaming has Taught Me
 description: 
 weight: 10
 ---

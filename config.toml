@@ -1,79 +1,87 @@
-# Site settings
-baseurl = "chriswalz.com"
-languageCode = "en"
-title = "Chris Walz Blog"
-theme = "hyde"
-googleAnalytics = "your_google_analytics_id"
-# Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
-hasCJKLanguage = false
+#baseurl = "localhost"
+theme = "hugo_theme_pickles"
+languageCode = "en-us"
+Title = "Chris Walz Blog"
+# Copyright notice. This is displayer in the footer.
+copyright = "&copy; Copyright notice"
+custom_css = "/static/css/custom.css"
 
 [params]
-	author = "Chris Walz"
-	description = "Site Description"
-	bio = "Software Engineer, Designer, ML Enthusiast"
+  paginate = 10
+  # Social accounts. Link to these accounts are displayed in the header and
+  # footer
+  twitter = "Your Twitter username"
+  instagram = "Your Instagram username"
+  github = "chriswalz"
+  linkedin = "cwwalz"
+  # Disqus shortname
+  disqus = ""
+  # Google Analytics API key.
+  ga_api_key = "Your Google Analytics tracking id"
+  author = "Chris Walz"
+  authorwebsite = "chriswalz.com"
+  avatar = "/images/personal/chris_portrait.jpg"
+  contact = "Your contact link (ex. mailto:foo@example.com)"
+  bio = "Learn everyday"
+  # Short subtitle/tagline. This is displayed in the header.
+  subtitle = "Working through first principles to find the truths that surround us."
+  # Logo image. This is displayed ogp image.
+  logo = "/path/to/logo"
+  favicon = "/path/to/favicon"
 
-	twitter = "your_twitter_id"
-	facebook = "your_facebook_id"
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
 
-	enableRSS = true
-	enableToc = true
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
 
-	enableDisqus = true
-	disqusShortname = "your_disqus_short_name"
+#[[menu.main]]
+#    identifier = "theme"
+#    name = "/theme"
+#    weight = 3
 
+#[[menu.main]]
+#    parent = "theme"
+#    name = "creating-a-new-theme"
+#    url = "/posts/creating-a-new-theme"
+#    weight = 1
 
-	enableSummary = true
-	# Set the value to true if use description in post front matter replace content summary
-	useDescriptionReplaceSummary = false
+#[[menu.main]]
+#    parent = "theme"
+#    name = "migrate-from-jekyll"
+#    url = "/posts/migrate-from-jekyll"
+#    weight = 2
 
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 4
 
-	enableGoogleAnalytics = true
-	enableBaiduAnalytics = false
-	# Set the value to your baidu analysis code if you want to use baidu analytics
-	baiduAnalytics = 'your_baidu_analysis_code'
+[related]
+  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+  threshold = 80
 
-	enableTwitterCard = true
-	# The url for twitter card image, default is avatar.png in static/images directory
-	twitterCardImage = ""
+  # To get stable "See also" sections we, by default, exclude newer related pages.
+  includeNewer = false
 
-	# Add custom assets with their paths relative to the static folder
-	customCSS = []
-	customJS  = []
+  # Will lower case keywords in both queries and in the indexes.
+  toLower = false
 
-	# The variables below are optionally too and can be used to
-	# translate or customize each string of the theme.
-
-	# Navigation links
-	home = ""
-	about = ""
-	archive = ""
-	subscribe = ""
-
-	olderPosts = ""
-	newerPosts = ""
-	copyright = ""
-
-	# show latest posts in single page
-	showLatestPosts = false
-	readMore = ""
-
-	# Share
-	enableShare = true
-	tweet = ""
-	share = ""
-
-	# 404 page
-	title404 = ""
-	subtitle404 = ""
-
-	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-	iconFont = "font-awesome"
-  # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
-  socialIconStyle = ""
-
-
-# Add additional social link entries underneath
-[social]
-	facebook-square = "https://www.facebook.com/nodejh"
-	twitter-square = "https://www.twitter.com/nodejh"
-	github-square = "https://www.github.com/nodejh"
+  [[related.indices]]
+  name = "keywords"
+  weight = 150
+  [[related.indices]]
+  name  = "author"
+  toLower = true
+  weight = 30
+  [[related.indices]]
+  name  = "tags"
+  weight = 100
+  [[related.indices]]
+  name  = "date"
+  weight = 10
+  pattern = "2019"

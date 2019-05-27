@@ -11,3 +11,10 @@ add theme ananke to config.toml
 ### Testing
 
 hugo server -D
+
+// for pickles theme\
+hugo server -t hugo_theme_pickles -w -D
+
+### Deploy
+
+hugo; firebase deploy

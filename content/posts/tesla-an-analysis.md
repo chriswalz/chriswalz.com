@@ -1,19 +1,19 @@
 ---
-author: "Chris Walz"
-date: 2019-04-28
+author: "Michael Henderson"
+date: 2014-09-28
 linktitle: Tesla an Analysis
-menu:
-  main:
-    parent: tutorials
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
 title: Tesla an Analysis
-description: Analyzing the state of Tesla in 2019
 weight: 10
 ---
 
 
 # **Introduction**
+
+Telsa 
+
+Whether you'll admit it or not, Tesla is disrupting the automotive industry. We are living in a special time in history. The last time the automotive industry was disrupted was in 1908 when the Model T was released - gas was less than quarter back then.  
 
 This post will be holistic overview. It has an outlook of about 20 to 30 years (assuming it makes it that far). Warning this post is long and in depth because that's the only way to give it a fair analysis. I also plan to treat this post as a live document in order to make adjustments to my analysis as more information becomes available. Also note that I'll attempt to reason by analogy. I'll focus more on a first principles approach. 
 
