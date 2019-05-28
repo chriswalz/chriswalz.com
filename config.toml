@@ -1,4 +1,4 @@
-#baseurl = "localhost"
+baseurl = "https://chriswalzcom.firebaseapp.com/"
 theme = "hugo_theme_pickles"
 languageCode = "en-us"
 Title = "Chris Walz Blog"
@@ -21,13 +21,13 @@ custom_css = "/static/css/custom.css"
   author = "Chris Walz"
   authorwebsite = "chriswalz.com"
   avatar = "/images/personal/chris_portrait.jpg"
-  contact = "Your contact link (ex. mailto:foo@example.com)"
+  contact = "chris@gosecret.io"
   bio = "Learn everyday"
   # Short subtitle/tagline. This is displayed in the header.
-  subtitle = "Working through first principles to find the truths that surround us."
+  subtitle = "Working through first principles to find the beauty that surrounds us."
   # Logo image. This is displayed ogp image.
   logo = "/path/to/logo"
-  favicon = "/path/to/favicon"
+  favicon = "/favicon/android-chrome-192x192.png"
 
 [[menu.main]]
     name = "Blog"

@@ -1,21 +1,36 @@
 ---
-author: "Michael Henderson"
-date: 2014-09-28
-linktitle: Tesla an Analysis
+author: "Chris Walz"
+date: 2019-05-27
+linktitle: Tesla an In-Depth Analysis
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
-title: Tesla an Analysis
+title: Tesla an In-Depth Analysis
 weight: 10
 ---
 
+# Setting the Scene
 
-# **Introduction**
+Tesla is one of the most divisive stocks since it went public in 2010. It has one of the most highly traded stocks with an average volume of 11 million trades everyday. TSLA stock is currently sitting at $190 nearly half of what it was five months ago when Elon famously announced: 
 
-Telsa 
+{{< tweet 1026872652290379776 >}}
 
-Whether you'll admit it or not, Tesla is disrupting the automotive industry. We are living in a special time in history. The last time the automotive industry was disrupted was in 1908 when the Model T was released - gas was less than quarter back then.  
+Three weeks after Elon's famous tweet Tesla published on their [blog](https://www.tesla.com/blog/staying-public) that they would be staying public. Naturally, the stock dropped back down - many investors were quite unhappy. 
 
-This post will be holistic overview. It has an outlook of about 20 to 30 years (assuming it makes it that far). Warning this post is long and in depth because that's the only way to give it a fair analysis. I also plan to treat this post as a live document in order to make adjustments to my analysis as more information becomes available. Also note that I'll attempt to reason by analogy. I'll focus more on a first principles approach. 
+Is Tesla ready for a rebound? Or has the death knell sounded marking the end of Tesla's tumultuous journey? 
+
+Some doom sayers such as Morgan Stanley predict the stock will be worth [$10](https://observer.com/2019/05/morgan-stanley-tesla-stock-bear-case-falling-demand/). Others predict it will be worth [$4000](https://www.cnbc.com/2019/05/04/tesla-could-go-even-higher-than-our-4000-price-target-fund-manager.html) or about $700 million in market value - not too far from Apple and Amazon.  
+
+When there's a lot of controversy it becomes very difficult to sift through all the bullshit. Not one to enjoy reading bullshit, I decided to consolidate my thoughts into this post that lies before your eyes
+
+Through my research one thing I'm sure of is that Tesla is certainly disrupting the automotive industry. We are living in a special time in history. The last time the automotive industry was disrupted like this was in 1908 when the Model T was released. 
+
+# Signposting the Analysis
+
+This post will be a holistic overview. It has an outlook of about 10 to 20 years of the EV industry and Tesla. Warning this post is long. Unlike other posts out there, this isn't about scaring people or clickbait. It's an attempt at a thoughtful analysis focused on fact.  
+ 
+I also plan to treating this post as a live document since I'll make adjustments to my analysis as more information becomes available. Also note that I'll avoid reasoning by analogy. I'll focus more on a first principles approach.
+
+The post is organized in order of the most fundamental aspects that affect Tesla and the automotive industry as a whole starting with the EV industry then Tesla's products then the state of its balance sheet. 
 
 I first heard about Elon Musk circa 2008. My cousin was telling me how there's a private space company led by a guy named Elon Musk. It seemed so absurd - how could a private company afford to be launching rockets? Only the government could manage to do something like that. Soon after I ended up reading about Elon Musk. Ever since then I've been an avid listener of his ideas and goals. I believe after studying him for this long I have a strong understanding of his ambitions and his motivations. 
 
@@ -79,7 +94,9 @@ If tesla make is through the short term many of it's R&D will benefit in the fut
 
 https://www.macrotrends.net/stocks/charts/TSLA/tesla/gross-margin
 
-![](/images/tesla/tesla_gross_margin.png)
+
+{{< figure src="/images/tesla/tesla_gross_margin.png" title="Tesla Gross Margin Overtime" >}}
+
 
 Burning cash or aggressive growth? 
 
@@ -203,3 +220,9 @@ https://eu-evs.com/
 https://www.wikipedia.org/
 
 https://www.cnbc.com
+
+https://observer.com
+
+# Additional Notes
+
+I began writing this post on 2019-04-28.

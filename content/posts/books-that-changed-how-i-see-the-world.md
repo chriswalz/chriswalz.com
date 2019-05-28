@@ -1,7 +1,7 @@
 ---
 author: "Chris Walz"
 date: 2019-04-28
-draft: true
+draft: false
 linktitle: Books that changed how I see the world
 menu:
   main:
