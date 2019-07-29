@@ -1,6 +1,6 @@
 ---
 author: "Chris Walz"
-date: 2019-04-28
+date: 2019-04-27
 draft: false
 linktitle: Books that changed how I see the world
 menu:
@@ -33,7 +33,13 @@ Understanding the tumultuous but exciting journey of an entrepreneur.
 
 ### Elon Musk
 
-Not a book but he exposed me to the idea of first principles thinking. 
+Not a book but he exposed me to the idea of first principles thinking. asd
+
+###
+
+People overestimate what they can do in a year and underestimate what they can do in 10 years. 
+
+Think about things on different timescales. 
 
 
 

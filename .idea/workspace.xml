@@ -14,20 +14,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/static/favicon/favicon.ico">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/content/posts/creating-a-new-theme.md">
+        <entry file="file://$PROJECT_DIR$/static/favicon/android-chrome-512x512.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/posts/tesla-an-in-depth-analysis.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret line="138" column="19" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="19" />
+              <first_editor relative-caret-position="2910">
+                <caret line="194" column="44" selection-start-line="194" selection-start-column="44" selection-end-line="194" selection-end-column="44" />
               </first_editor>
               <second_editor />
             </state>
@@ -35,23 +36,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/content/posts/books-that-changed-how-i-see-the-world.md">
+        <entry file="file://$PROJECT_DIR$/content/posts/taking-back-your-attention.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret line="29" selection-start-line="29" selection-end-line="29" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/content/posts/tesla-an-analysis.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="390">
-                <caret line="86" selection-start-line="86" selection-end-line="86" selection-end-column="12" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="11" selection-end-line="45" />
               </first_editor>
               <second_editor />
             </state>
@@ -59,11 +48,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/content/content/posts/taking-back-your-attention.md">
+        <entry file="file://$PROJECT_DIR$/content/posts/how-to-share-passwords-or-private-information-securely.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="489">
-                <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+              <first_editor relative-caret-position="421">
+                <caret line="20" selection-start-line="20" selection-end-line="20" />
               </first_editor>
               <second_editor />
             </state>
@@ -71,11 +60,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/content/posts/migrate-from-jekyll.md">
+        <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="16" />
+              <first_editor relative-caret-position="285">
+                <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -83,11 +72,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/content/posts/goisforlovers.md">
+        <entry file="file://$PROJECT_DIR$/content/posts/books-that-changed-how-i-see-the-world.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/posts/What-I'm-Learning-In-2019.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="465">
+                <caret line="31" selection-start-line="31" selection-end-line="31" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/about.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="245" selection-start-line="5" selection-start-column="245" selection-end-line="5" selection-end-column="245" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/hugo_theme_pickles/layouts/partials/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -99,6 +123,11 @@
       <find>theme</find>
       <find>content</find>
       <find>china</find>
+      <find>demand</find>
+      <find>creating-a-new-th</find>
+      <find>BaseURL</find>
+      <find>tut</find>
+      <find>insura</find>
     </findStrings>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.12.4/libexec" />
@@ -108,22 +137,36 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/content/tesla" />
         <option value="$PROJECT_DIR$/themes/hugo-theme-cactus-plus/exampleSite/config.toml" />
         <option value="$PROJECT_DIR$/themes/hugo-theme-cactus-plus/layouts/404.html" />
-        <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/chriswalzcom/.gitignore" />
         <option value="$PROJECT_DIR$/content/content/posts/books-that-changed-how-i-see-the-world.md" />
-        <option value="$PROJECT_DIR$/content/content/posts/tesla-an-analysis.md" />
         <option value="$PROJECT_DIR$/content/content/posts/taking-back-your-attention.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/content/content/posts/tesla-an-analysis.md" />
+        <option value="$PROJECT_DIR$/themes/hugo_theme_pickles/exampleSite/content/posts/tesla-an-analysis.md" />
+        <option value="$PROJECT_DIR$/themes/hugo_theme_pickles/exampleSite/config.toml" />
+        <option value="$PROJECT_DIR$/content/about.md" />
+        <option value="$PROJECT_DIR$/content/posts/What-Gaming-Has-Taught-Me.md" />
+        <option value="$PROJECT_DIR$/content/posts/What-I'm-Learning-In-2019.md" />
+        <option value="$PROJECT_DIR$/content/posts/taking-back-your-attention.md" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/public/posts/tesla-an-analysis/index.html" />
+        <option value="$PROJECT_DIR$/themes/hugo_theme_pickles/layouts/partials/head.html" />
+        <option value="$PROJECT_DIR$/content/posts/tesla-an-analysis.md" />
+        <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/content/posts/books-that-changed-how-i-see-the-world.md" />
+        <option value="$PROJECT_DIR$/content/posts/tesla-an-in-depth-analysis.md" />
+        <option value="$PROJECT_DIR$/content/posts/how-to-share-passwords-or-private-information-securely.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1066" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="52" />
+    <option name="y" value="23" />
+    <option name="width" value="1388" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -131,36 +174,53 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="chriswalz.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chriswalz.com" type="462c0819:PsiDirectoryNode" />
+              <item name="chriswalzcom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chriswalzcom" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="chriswalz.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chriswalz.com" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chriswalz.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chriswalz.com" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="chriswalzcom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chriswalzcom" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="chriswalz.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chriswalz.com" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="chriswalzcom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chriswalzcom" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chriswalzcom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chriswalzcom" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chriswalzcom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chriswalzcom" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chriswalzcom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chriswalzcom" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="video" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chriswalzcom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chriswalzcom" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="video" type="462c0819:PsiDirectoryNode" />
+              <item name="gosecret" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,18 +229,24 @@
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/content/posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/video/gosecret" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/video/gosecret" />
+      <recent name="$PROJECT_DIR$/static/images/personal" />
+      <recent name="$PROJECT_DIR$/static/images/chris_portrait" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/themes" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Chris\Documents\GitHub\chriswalz.com\content\content\posts" />
-      <recent name="$PROJECT_DIR$/content/content/posts" />
+      <recent name="$PROJECT_DIR$/static/video/gosecret" />
+      <recent name="$PROJECT_DIR$/content/posts" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/themes/hugo_theme_pickles/exampleSite/content/posts" />
       <recent name="$PROJECT_DIR$/content" />
     </key>
   </component>
@@ -197,12 +263,11 @@
     </option>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="52" y="23" width="1388" height="877" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.14392324" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.39524516" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.50163937" side_tool="true" visible="true" weight="0.14392324" />
+      <window_info id="Favorites" order="2" sideWeight="0.50163937" side_tool="true" weight="0.14392324" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -213,7 +278,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3391116" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3388535" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -231,118 +296,260 @@
       <path value="$PROJECT_DIR$/themes/ananke" />
       <path value="$PROJECT_DIR$/themes/hugo-theme-cactus-plus" />
       <path value="$PROJECT_DIR$/themes/hyde" />
+      <path value="$PROJECT_DIR$/themes/hugo_theme_pickles" />
     </ignored-roots>
     <MESSAGE value="gitignore update" />
     <option name="LAST_COMMIT_MESSAGE" value="gitignore update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/ananke/theme.toml" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-cactus-plus/theme.toml" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-cactus-plus/README.md" />
-    <entry file="file://$PROJECT_DIR$/themes/ananke/archetypes/default.md" />
-    <entry file="file://$PROJECT_DIR$/content/tesla" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-cactus-plus/exampleSite/static/.gitkeep" />
-    <entry file="file://$PROJECT_DIR$/content/content/about/_index.md">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/content/posts/taking-back-your-attention.md" />
+    <entry file="file://$PROJECT_DIR$/content/content/posts/migrate-from-jekyll.md" />
+    <entry file="file://$PROJECT_DIR$/content/content/posts/goisforlovers.md" />
+    <entry file="file://$PROJECT_DIR$/content/content/about/_index.md" />
+    <entry file="file://$PROJECT_DIR$/data/team.yml" />
+    <entry file="file://$PROJECT_DIR$/content/about/_index.md" />
+    <entry file="file://$PROJECT_DIR$/content/blog/_index.md" />
+    <entry file="file://$PROJECT_DIR$/themes/ezhil/exampleSite/config.toml" />
+    <entry file="file://$PROJECT_DIR$/themes/kross-hugo-portfolio-template/theme.toml" />
+    <entry file="file://$PROJECT_DIR$/themes/kross-hugo-portfolio-template/exampleSite/data/homepage.yml" />
+    <entry file="file://$PROJECT_DIR$/content/posts/post-1.md" />
+    <entry file="file://$PROJECT_DIR$/themes/ezhil/images/tn.png" />
+    <entry file="file://$PROJECT_DIR$/themes/ezhil/images/screenshot.png" />
+    <entry file="file://$PROJECT_DIR$/themes/hugo_theme_pickles/exampleSite/content/posts/books-that-changed-how-i-see-the-world.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo_theme_pickles/exampleSite/content/posts/taking-back-your-attention.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archetypes/default.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-cactus-plus/images/archive.png" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-cactus-plus/images/screenshot.png" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-cactus-plus/images/tn.png" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-cactus-plus/images/tags.png" />
+    <entry file="file://$PROJECT_DIR$/themes/ezhil/theme.toml" />
+    <entry file="file://$PROJECT_DIR$/themes/hugo_theme_pickles/exampleSite/content/posts/goisforlovers.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo_theme_pickles/exampleSite/content/posts/creating-a-new-theme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo_theme_pickles/exampleSite/content/posts/creating-a-new-theme-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="16" selection-start-line="1" selection-end-line="2" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo_theme_pickles/theme.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo_theme_pickles/exampleSite/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-679">
+          <caret line="26" column="30" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/creating-a-new-theme-2.md" />
+    <entry file="file://$PROJECT_DIR$/content/posts/migrate-from-jekyll.md" />
+    <entry file="file://$PROJECT_DIR$/content/posts/creating-a-new-theme.md" />
+    <entry file="file://$PROJECT_DIR$/content/posts/goisforlovers.md" />
+    <entry file="file://$PROJECT_DIR$/public/posts/image-zoom-sample/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="88" column="12" selection-start-line="88" selection-start-column="12" selection-end-line="88" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo_theme_pickles/exampleSite/content/posts/tesla-an-analysis.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firebase.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#14297#14304#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/posts/tesla-an-analysis/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo_theme_pickles/layouts/partials/menu.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo_theme_pickles/layouts/partials/pagination.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo_theme_pickles/layouts/partials/link.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2126" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo_theme_pickles/layouts/partials/head_custom.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo_theme_pickles/layouts/partials/footer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo_theme_pickles/layouts/partials/footer_custom.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/What-Gaming-Has-Taught-Me.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-44">
+            <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/favicon/android-chrome-192x192.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/favicon/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/favicon/android-chrome-512x512.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/tesla-an-in-depth-analysis.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2910">
+            <caret line="194" column="44" selection-start-line="194" selection-start-column="44" selection-end-line="194" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/taking-back-your-attention.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="11" selection-end-line="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/books-that-changed-how-i-see-the-world.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/posts/What-I'm-Learning-In-2019.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="465">
+            <caret line="31" selection-start-line="31" selection-end-line="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="245" selection-start-line="5" selection-start-column="245" selection-end-line="5" selection-end-column="245" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo_theme_pickles/layouts/partials/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <first_editor relative-caret-position="285">
+            <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/tesla" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-cactus-plus/static/images/avatar.png" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-cactus-plus/static/images/avatar@2x.png" />
-    <entry file="file://$PROJECT_DIR$/content/content/posts/hugoisforlovers.md">
+    <entry file="file://$PROJECT_DIR$/content/posts/how-to-share-passwords-or-private-information-securely.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-cactus-plus/README_zh-cn.md" />
-    <entry file="file://$PROJECT_DIR$/content/content/posts/books-that-changed-how-i-think-about-the-world.md" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-cactus-plus/exampleSite/config.toml" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-cactus-plus/archetypes/default.md" />
-    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-cactus-plus/layouts/404.html" />
-    <entry file="file://$PROJECT_DIR$/chriswalzcom/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/content/posts/creating-a-new-theme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret line="138" column="19" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/content/posts/books-that-changed-how-i-see-the-world.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret line="29" selection-start-line="29" selection-end-line="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/content/posts/migrate-from-jekyll.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/content/posts/goisforlovers.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/content/posts/tesla-an-analysis.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="86" selection-start-line="86" selection-end-line="86" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/content/posts/taking-back-your-attention.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="489">
-            <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <first_editor relative-caret-position="421">
+            <caret line="20" selection-start-line="20" selection-end-line="20" />
           </first_editor>
           <second_editor />
         </state>

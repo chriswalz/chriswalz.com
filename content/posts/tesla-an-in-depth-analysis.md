@@ -10,19 +10,19 @@ weight: 10
 
 # Setting the Scene
 
-Tesla is one of the most divisive stocks since it went public in 2010. It has one of the most highly traded stocks with an average volume of 11 million trades everyday. TSLA stock is currently sitting at $190 nearly half of what it was five months ago when Elon famously announced: 
+Tesla is one of the most divisive stocks since it went public in 2010. Presently, Teslas stock is one of the most highly traded stocks with an average volume of 11 million trades everyday. It is currently sitting at $190 nearly half of what it was five months ago when Elon famously announced: 
 
 {{< tweet 1026872652290379776 >}}
 
-Three weeks after Elon's famous tweet Tesla published on their [blog](https://www.tesla.com/blog/staying-public) that they would be staying public. Naturally, the stock dropped back down - many investors were quite unhappy. 
+Three weeks after Elon's famous tweet Tesla published on their [blog](https://www.tesla.com/blog/staying-public) that they would be remaining public. Naturally, the stock dropped back down - many investors were quite unhappy. 
 
 Is Tesla ready for a rebound? Or has the death knell sounded marking the end of Tesla's tumultuous journey? 
 
 Some doom sayers such as Morgan Stanley predict the stock will be worth [$10](https://observer.com/2019/05/morgan-stanley-tesla-stock-bear-case-falling-demand/). Others predict it will be worth [$4000](https://www.cnbc.com/2019/05/04/tesla-could-go-even-higher-than-our-4000-price-target-fund-manager.html) or about $700 million in market value - not too far from Apple and Amazon.  
 
-When there's a lot of controversy it becomes very difficult to sift through all the bullshit. Not one to enjoy reading bullshit, I decided to consolidate my thoughts into this post that lies before your eyes
+When there's a lot of controversy it becomes very difficult to sift through all the bullshit. Not one to enjoy reading bullshit, I decided to consolidate my thoughts into this post so that others will not have to do the same.
 
-Through my research one thing I'm sure of is that Tesla is certainly disrupting the automotive industry. We are living in a special time in history. The last time the automotive industry was disrupted like this was in 1908 when the Model T was released. 
+Through my research one thing I'm sure of is that Tesla is certainly has and is continuing to disrupt the automotive industry. We are living in a special time in history. The last time the automotive industry was disrupted like this was in 1908 when the Model T was released. 
 
 # Signposting the Analysis
 
@@ -30,16 +30,9 @@ This post will be a holistic overview. It has an outlook of about 10 to 20 years
  
 I also plan to treating this post as a live document since I'll make adjustments to my analysis as more information becomes available. Also note that I'll avoid reasoning by analogy. I'll focus more on a first principles approach.
 
-The post is organized in order of the most fundamental aspects that affect Tesla and the automotive industry as a whole starting with the EV industry then Tesla's products then the state of its balance sheet. 
+The post is organized in order of what I consider the most fundamental questions. Will the EV market supercede the ICE market? Will Tesla's products be more competitive than the competition? Is Tesla's balance sheet suffient enough to make it to the long term?
 
 I first heard about Elon Musk circa 2008. My cousin was telling me how there's a private space company led by a guy named Elon Musk. It seemed so absurd - how could a private company afford to be launching rockets? Only the government could manage to do something like that. Soon after I ended up reading about Elon Musk. Ever since then I've been an avid listener of his ideas and goals. I believe after studying him for this long I have a strong understanding of his ambitions and his motivations. 
-
-Elon has started many companies. Interestingly, Tesla was not one of them. Tesla ((originally called Tesla Motors, Inc.) was founded in 2003 by Martin Eberhard and Marc Tarpenning neither of which are working at the company anymore although they are both shareholders. It's had a tumultuous history but its still kicking and screaming in 2019. 
-
-Let's take a look at some graphs to get a sense of Tesla' progress since 2010 (when they went public)
-
-All graphs are from https://www.macrotrends.net/ for the timeframe 03/31/2010 to 01/01/2019
-
 
 
 # Truthfulness & Biases
@@ -75,6 +68,9 @@ https://hbr.org/2019/05/teslas-strong-brand-gives-it-unusual-expansion-potential
 Tesla insurance product. 
 
 
+# Big Opportunities 
+
+The Tesla Semi 
 
 # Health of Tesla - Financial Document Analysis
 
@@ -129,7 +125,10 @@ Other parts
 
 # Full Self Driving 
 
-Robotaxis, Robotrucks, safety, laws against human drivers? 
+Robotaxis $$$ \
+Automated trucks $$$ \
+
+, safety, laws against human drivers? 
 
 # Macroeconomic factors 
 
@@ -193,6 +192,8 @@ it has 22 billions dollars in assets
 
 cost cutting, dependency on debt 
 
+Model 3 product recall could be devastating 
+
 # Concluding Thoughts
 
 Whether you hate or love tesla, few could argue that Tesla isn't accomplishing their mission - to accelerate the world’s transition to sustainable energy. I personally think has had a very strong net good on the world. I hope for their continued success and believe they will succeed which is partly why I own Tesla stock myself. 
@@ -226,3 +227,11 @@ https://observer.com
 # Additional Notes
 
 I began writing this post on 2019-04-28.
+
+# Staging Area
+
+Elon has started many companies. Interestingly, Tesla was not one of them. Tesla ((originally called Tesla Motors, Inc.) was founded in 2003 by Martin Eberhard and Marc Tarpenning neither of which are working at the company anymore although they are both shareholders. It's had a tumultuous history but its still kicking and screaming in 2019. 
+
+Let's take a look at some graphs to get a sense of Tesla' progress since 2010 (when they went public)
+
+All graphs are from https://www.macrotrends.net/ for the timeframe 03/31/2010 to 01/01/2019
