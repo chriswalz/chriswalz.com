@@ -1,4 +1,4 @@
-baseurl = "https://chriswalzcom.firebaseapp.com/"
+baseurl = "https://chriswalz.com/"
 theme = "hugo_theme_pickles"
 languageCode = "en-us"
 Title = "Chris Walz Blog"
