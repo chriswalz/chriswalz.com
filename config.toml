@@ -22,12 +22,18 @@ custom_css = "/static/css/custom.css"
   authorwebsite = "chriswalz.com"
   avatar = "/images/personal/chris_portrait.jpg"
   contact = "chris@gosecret.io"
-  bio = "Learn everyday"
+  bio = "Like Christoph Waltz but without the topht "
   # Short subtitle/tagline. This is displayed in the header.
-  subtitle = "Working through first principles to find the beauty that surrounds us."
+  subtitle = ""
   # Logo image. This is displayed ogp image.
   logo = "/path/to/logo"
   favicon = "/favicon/android-chrome-192x192.png"
+
+[[menu.main]]
+  parent = "theme"
+  name = "Tesla an In-Depth Analysis"
+  url = "/posts/tesla-an-in-depth-analysis"
+  weight = 1
 
 [[menu.main]]
     name = "Blog"
@@ -44,11 +50,7 @@ custom_css = "/static/css/custom.css"
 #    name = "/theme"
 #    weight = 3
 
-#[[menu.main]]
-#    parent = "theme"
-#    name = "creating-a-new-theme"
-#    url = "/posts/creating-a-new-theme"
-#    weight = 1
+
 
 #[[menu.main]]
 #    parent = "theme"

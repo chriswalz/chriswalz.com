@@ -10,7 +10,7 @@ weight: 10
 
 # Setting the Scene
 
-Tesla is one of the most divisive stocks since it went public in 2010. Presently, Teslas stock is one of the most highly traded stocks with an average volume of 11 million trades everyday. It is currently sitting at $190 nearly half of what it was five months ago when Elon famously announced: 
+Tesla is one of the most divisive stocks since it went public in 2010. Presently, Teslas stock is one of the most highly traded stocks with an average volume of 11 million trades everyday. It is currently sitting at $190 nearly half of what it was five months ago when Elon Musk famously announced: 
 
 {{< tweet 1026872652290379776 >}}
 
@@ -22,23 +22,23 @@ Some doom sayers such as Morgan Stanley predict the stock will be worth [$10](ht
 
 When there's a lot of controversy it becomes very difficult to sift through all the bullshit. Not one to enjoy reading bullshit, I decided to consolidate my thoughts into this post so that others will not have to do the same.
 
-Through my research one thing I'm sure of is that Tesla is certainly has and is continuing to disrupt the automotive industry. We are living in a special time in history. The last time the automotive industry was disrupted like this was in 1908 when the Model T was released. 
+Through my research, one thing I'm sure of is that Tesla is certainly has and is continuing to disrupt the automotive industry. We are living in a special time in history. The last time the automotive industry was disrupted like this was in 1908 when the Model T was released. 
 
 # Signposting the Analysis
 
-This post will be a holistic overview. It has an outlook of about 10 to 20 years of the EV industry and Tesla. Warning this post is long. Unlike other posts out there, this isn't about scaring people or clickbait. It's an attempt at a thoughtful analysis focused on fact.  
+This post will be a holistic overview. This analysis has an outlook of about 10 to 20 years of the EV industry and Tesla. Warning this post is long. Unlike other posts out there, this isn't about scaring people or clickbait. It's an attempt at a thoughtful analysis focused on fact.  
  
-I also plan to treating this post as a live document since I'll make adjustments to my analysis as more information becomes available. Also note that I'll avoid reasoning by analogy. I'll focus more on a first principles approach.
+This post is a "living" document and can and will be updated overtime.
 
-The post is organized in order of what I consider the most fundamental questions. Will the EV market supercede the ICE market? Will Tesla's products be more competitive than the competition? Is Tesla's balance sheet suffient enough to make it to the long term?
+The post is organized in order of what I consider the most fundamental questions. Will the EV market supercede the ICE market? Will Tesla's products be more competitive than the competition? Is Tesla's balance sheet sufficient to make it to the long term?
 
-I first heard about Elon Musk circa 2008. My cousin was telling me how there's a private space company led by a guy named Elon Musk. It seemed so absurd - how could a private company afford to be launching rockets? Only the government could manage to do something like that. Soon after I ended up reading about Elon Musk. Ever since then I've been an avid listener of his ideas and goals. I believe after studying him for this long I have a strong understanding of his ambitions and his motivations. 
+I first heard about Elon Musk circa 2008. My cousin was telling me how there's a private space company led by a guy named Elon Musk. It seemed so absurd - how could a private company afford to be launching rockets? Only the government could manage to do something like that. Soon after I ended up reading about Elon Musk. Ever since then I've been an avid listener of his ideas and goals. I believe after studying him for this long I've gained a sense of his psychology and what motivates him. 
 
 
 # Truthfulness & Biases
 In this day and age it's very easy to lie with graphs and numbers. As someone who simply wants to understand the better I will do my best to honest to you as well as with myself. Humans are prone to many biases especially when trying to prove something. 
 
-I also want to acknowledge that I (as is everyone else) is subject to the human condition. I am susceptible to in-group out-group bias, availability bias and confirmation bias as well as my amygdala.
+I also want to acknowledge that I (as is everyone else) is subject to the human condition. I am susceptible to in-group out-group bias, availability bias and confirmation bias as well as all the pleasantries of the amygdala.
 
 I do my best to reduce the affect of these biases in my analysis.
 
@@ -49,30 +49,37 @@ I believe in a weak version of the EMH - that every stock price is a rough appro
 
 # Electric Vehicles vs. Internal Combustion Engine Vehicles
 
-It's important to think about the automotive market as a whole. Will EV's change the market forever? Or is it just a fad? ICE vehicles have dominated the market ever since horses went out of style. There have been various attempts over the years to move on from ICE using hydrogen fuel cells, hybrids and EV's. I believe that the market will eventually draw towards the best type. How do to define the best? Cost to build, energy efficiency, maintenance costs.  I focus on ICE and EV's in this post.
+It's important to think about the automotive market as a whole. Will EV's change the market forever? Or is it just a fad? ICE vehicles have dominated the market ever since horses went out of style. There have been various attempts over the years to move on from ICE using hydrogen fuel cells, hybrids and EV's. I believe that the market will eventually draw towards the best type. How do to define the best? Cost to build, energy efficiency, maintenance costs. We'll focus on ICE's and EV's in this post.
 
-
-## Build Costs
-
-construction and recycling
 
 ## Energy Efficiency
 
 According to the US Department of Energy’s [Office of Energy Efficiency and Renewable Energy](https://www.fueleconomy.gov/feg/evtech.shtml), “EVs convert about 59%–62% of the electrical energy from the grid to power at the wheels. Conventional gasoline vehicles only convert about 17%–21% of the energy stored in gasoline to power at the wheels.”
 
-That means that if an ICE vehicle gets 30MPG an EV would get 90MPGe. 
+That means that EV's are roughly 3x times more energy efficient *even if they were to rely on electricity that comes directly from gasoline* – power plants can more efficiently convert gasoline to electricity than your ICE vehicle ever could. This helps point to why EV's have much better MPGe. 
+
+Update: as of Aug. 30 2020, the numbers are even better for EV's: "EVs convert over 77% of the electrical energy from the grid to power at the wheels. Conventional gasoline vehicles only convert about 12%–30% of the energy stored in gasoline to power at the wheel".
 
 ## Maintenance Costs 
 
+https://insideevs.com/news/317307/ev-vs-ice-maintenance-the-first-100000-miles
+https://techcrunch.com/2020/03/06/electric-vehicles-are-changing-the-future-of-auto-maintenance/
+    - more tire replacement due to high vehicle weight from battery
 https://hbr.org/2019/05/teslas-strong-brand-gives-it-unusual-expansion-potential
+https://www.energy.gov/eere/electricvehicles/electric-car-safety-maintenance-and-battery-life
+    - less moving parts 
+    - less fluids (no oil or transmission fluid)
+    - less wear & tear on breaks (through regenerative breaking)
 Tesla insurance product. 
-
 
 # Big Opportunities 
 
-The Tesla Semi 
+- The Tesla Semi
+- FSD 
+- Tesla Insurance
+- Tesla Solar 
 
-# Health of Tesla - Financial Document Analysis
+# Health of Tesla
 
 ## Cash 
 
@@ -166,7 +173,11 @@ Yes, they have product quality issues
 
 Yes, these risk factors identified by Tesla
 
-I recommend reading the risk factors filed in Tesla's 10k
+I recommend reading the Risk Factors filed in Tesla's [2019 10k](https://ir.tesla.com/node/20456/html#ITEM_1A_RISK_FACTORS)
+A summary of some of the highlights (lowlights?):
+    - safety risks with storing batteries in factories - fires are a hazard
+    - government regulations 
+    - a pandemic
 
 #Some negatives claims about Tesla 
 They don't have enough demand vs delivery - https://www.fool.com/investing/`019/04/28/elon-musk-comment-should-terrify-tesla-investors.aspx
@@ -196,9 +207,9 @@ Model 3 product recall could be devastating
 
 # Concluding Thoughts
 
-Whether you hate or love tesla, few could argue that Tesla isn't accomplishing their mission - to accelerate the world’s transition to sustainable energy. I personally think has had a very strong net good on the world. I hope for their continued success and believe they will succeed which is partly why I own Tesla stock myself. 
+Whether you hate or love tesla, few could argue that Tesla isn't accomplishing their mission - to accelerate the world’s transition to sustainable energy. I personally think it has had a very strong net positive on the world. I hope for their continued success and believe they will succeed which is partly why I own Tesla stock myself. 
 
-Please share you thoughts!
+Please share your thoughts!
 
 # Sources
 
@@ -230,7 +241,7 @@ I began writing this post on 2019-04-28.
 
 # Staging Area
 
-Elon has started many companies. Interestingly, Tesla was not one of them. Tesla ((originally called Tesla Motors, Inc.) was founded in 2003 by Martin Eberhard and Marc Tarpenning neither of which are working at the company anymore although they are both shareholders. It's had a tumultuous history but its still kicking and screaming in 2019. 
+Elon has started many companies. Interestingly, Tesla was not one of them. Tesla (originally called Tesla Motors, Inc.) was founded in 2003 by Martin Eberhard and Marc Tarpenning neither of which are working at the company anymore although they are both shareholders. It's had a tumultuous history but its still kicking and screaming in 2019. 
 
 Let's take a look at some graphs to get a sense of Tesla' progress since 2010 (when they went public)
 
