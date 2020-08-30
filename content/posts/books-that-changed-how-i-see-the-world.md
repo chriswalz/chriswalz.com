@@ -31,7 +31,7 @@ Understanding the tumultuous but exciting journey of the founder of Nike.
 
 ### Elon Musk
 
-Elon Musk is certainly not a book but his way of thinking especially using first priciples thinking are quite influential. 
+Elon Musk is certainly not a book but his way of thinking especially using first principles thinking are quite influential. 
 
 
 

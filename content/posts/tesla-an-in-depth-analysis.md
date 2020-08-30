@@ -10,7 +10,7 @@ weight: 10
 
 # Setting the Scene
 
-Tesla is one of the most divisive stocks since it went public in 2010. Presently, Teslas stock is one of the most highly traded stocks with an average volume of 11 million trades everyday. It is currently sitting at $190 nearly half of what it was five months ago when Elon Musk famously announced: 
+Tesla is one of the most divisive stocks since it went public in 2010. Presently, Tesla's stock is one of the most highly traded stocks with an average volume of 11 million trades every day. It is currently sitting at $190 nearly half of what it was five months ago when Elon Musk famously announced: 
 
 {{< tweet 1026872652290379776 >}}
 
@@ -18,33 +18,33 @@ Three weeks after Elon's famous tweet Tesla published on their [blog](https://ww
 
 Is Tesla ready for a rebound? Or has the death knell sounded marking the end of Tesla's tumultuous journey? 
 
-Some doom sayers such as Morgan Stanley predict the stock will be worth [$10](https://observer.com/2019/05/morgan-stanley-tesla-stock-bear-case-falling-demand/). Others predict it will be worth [$4000](https://www.cnbc.com/2019/05/04/tesla-could-go-even-higher-than-our-4000-price-target-fund-manager.html) or about $700 million in market value - not too far from Apple and Amazon.  
+Some doomsayers such as Morgan Stanley predict the stock will be worth [$10](https://observer.com/2019/05/morgan-stanley-tesla-stock-bear-case-falling-demand/). Others predict it will be worth [$4000](https://www.cnbc.com/2019/05/04/tesla-could-go-even-higher-than-our-4000-price-target-fund-manager.html) or about $700 million in market value - not too far from Apple and Amazon.  
 
 When there's a lot of controversy it becomes very difficult to sift through all the bullshit. Not one to enjoy reading bullshit, I decided to consolidate my thoughts into this post so that others will not have to do the same.
 
-Through my research, one thing I'm sure of is that Tesla is certainly has and is continuing to disrupt the automotive industry. We are living in a special time in history. The last time the automotive industry was disrupted like this was in 1908 when the Model T was released. 
+Through my research, one thing I'm sure of is that Tesla certainly has and is continuing to disrupt the automotive industry. We are living in a special time in history. The last time the automotive industry was disrupted like this was in 1908 when the Model T was released. 
 
 # Signposting the Analysis
 
 This post will be a holistic overview. This analysis has an outlook of about 10 to 20 years of the EV industry and Tesla. Warning this post is long. Unlike other posts out there, this isn't about scaring people or clickbait. It's an attempt at a thoughtful analysis focused on fact.  
  
-This post is a "living" document and can and will be updated overtime.
+This post is a "living" document and can and will be updated over time.
 
-The post is organized in order of what I consider the most fundamental questions. Will the EV market supercede the ICE market? Will Tesla's products be more competitive than the competition? Is Tesla's balance sheet sufficient to make it to the long term?
+The post is organized in order of what I consider the most fundamental questions. Will the EV market supersede the ICE market? Will Tesla's products be more competitive than the competition? Is Tesla's balance sheet sufficient to make it to the long term?
 
 I first heard about Elon Musk circa 2008. My cousin was telling me how there's a private space company led by a guy named Elon Musk. It seemed so absurd - how could a private company afford to be launching rockets? Only the government could manage to do something like that. Soon after I ended up reading about Elon Musk. Ever since then I've been an avid listener of his ideas and goals. I believe after studying him for this long I've gained a sense of his psychology and what motivates him. 
 
 
 # Truthfulness & Biases
-In this day and age it's very easy to lie with graphs and numbers. As someone who simply wants to understand the better I will do my best to honest to you as well as with myself. Humans are prone to many biases especially when trying to prove something. 
+In this day and age, it's very easy to lie with graphs and numbers. As someone who simply wants to understand better, I will do my best to honest to you as well as with myself. Humans are prone to many biases especially when trying to prove something. 
 
-I also want to acknowledge that I (as is everyone else) is subject to the human condition. I am susceptible to in-group out-group bias, availability bias and confirmation bias as well as all the pleasantries of the amygdala.
+I also want to acknowledge that I (as is everyone else) is subject to the human condition. I am susceptible to in-group out-group bias, availability bias, and confirmation bias as well as all the pleasantries of the amygdala.
 
-I do my best to reduce the affect of these biases in my analysis.
+I do my best to reduce the effect of these biases in my analysis.
 
 # A Note on Stock Markets
 
-I believe in a weak version of the EMH - that every stock price is a rough approximation of its true value. I know this a bit controversial; however, the way I see it is that I respect the huge agglomeration of minds that together are in a chaotic yet beautiful constant state of valuing companies. I respect that giant mass of distributed brain power (machines too) and believe it is much smarter than me (at least most of the time 😊). The stock market is considered a level 2 chaotic system so needless to say it's difficult for an observer to predict future value of a stock. Also, humans are emotional (perhaps their algorithmic machines are too). Kahneman in "Thinking Fast and Slow" has some interesting thoughts on this and does give merit to why the markets are NOT very efficient.  
+I believe in a weak version of the EMH - that every stock price is a rough approximation of its true value. I know this a bit controversial; however, the way I see it is that I respect the huge agglomeration of minds that together are in a chaotic yet beautiful constant state of valuing companies. I respect that giant mass of distributed brain power (machines too) and believe it is much smarter than me (at least most of the time 😉). The stock market is considered a level 2 chaotic system so needless to say it's difficult for an observer to predict the future value of a stock. Also, humans are emotional (perhaps their algorithmic machines are too). Kahneman in "Thinking Fast and Slow" has some interesting thoughts on this and does give merit to why the markets are NOT very efficient.  
 
 
 # Electric Vehicles vs. Internal Combustion Engine Vehicles
@@ -56,9 +56,9 @@ It's important to think about the automotive market as a whole. Will EV's change
 
 According to the US Department of Energy’s [Office of Energy Efficiency and Renewable Energy](https://www.fueleconomy.gov/feg/evtech.shtml), “EVs convert about 59%–62% of the electrical energy from the grid to power at the wheels. Conventional gasoline vehicles only convert about 17%–21% of the energy stored in gasoline to power at the wheels.”
 
-That means that EV's are roughly 3x times more energy efficient *even if they were to rely on electricity that comes directly from gasoline* – power plants can more efficiently convert gasoline to electricity than your ICE vehicle ever could. This helps point to why EV's have much better MPGe. 
+That means that EV's are roughly 3x times more energy-efficient *even if they were to rely on electricity that comes directly from gasoline* – power plants can more efficiently convert gasoline to electricity than your ICE vehicle ever could. This helps point to why EV's have much better MPGe. 
 
-Update: as of Aug. 30 2020, the numbers are even better for EV's: "EVs convert over 77% of the electrical energy from the grid to power at the wheels. Conventional gasoline vehicles only convert about 12%–30% of the energy stored in gasoline to power at the wheel".
+Update: as of Aug. 30, 2020, the numbers are even better for EV's: "EVs convert over 77% of the electrical energy from the grid to power at the wheels. Conventional gasoline vehicles only convert about 12%–30% of the energy stored in gasoline to power at the wheel".
 
 ## Maintenance Costs 
 
@@ -83,7 +83,7 @@ Tesla insurance product.
 
 ## Cash 
 
-Elon Musk semi regular sounds out emails to all of his employees. Some of them are quite positive. Many are alarm bells and scary to read - you can read the full one [here](https://www.cnbc.com/2019/05/17/elon-musk-calls-for-cost-control-in-memo-to-employees.html). I'll highlight a particularly interesting yet unsettling quote here: 
+Elon Musk semi-regularly sounds out emails to all of his employees. Some of them are quite positive. Many are alarm bells and scary to read - you can read the full one [here](https://www.cnbc.com/2019/05/17/elon-musk-calls-for-cost-control-in-memo-to-employees.html). I'll highlight a particularly interesting yet unsettling quote here: 
 
 > It is important to bear in mind that we lost $700 million in the first quarter this year, which is over $200 million per month. Investors nonetheless were supportive of our efforts and agreed to give us $2.4 billion (our net proceeds) to show that we can be financially sustainable. 
 >
@@ -93,7 +93,7 @@ Where is all the money going? Let's take a look at a breakdown of their spending
 
 
 
-If tesla make is through the short term many of it's R&D will benefit in the future 
+If tesla makes it through the short term many it can start reaping the benefits of its R&D in the future
 
 https://www.macrotrends.net/stocks/charts/TSLA/tesla/gross-margin
 
@@ -114,7 +114,7 @@ https://eu-evs.com/
 
 ## Customer Satisfaction 
 
-It may come to no surprised that Tesla drivers are are very happy with their cars even with the horror stories revolving around service centers or price changes soon after purchase. Tesla has a devoted fanbase sometimes its equated to a cult like following. People who post negative content about tesla are often bombared with insults and a slew of dislikes.   
+It may come to no surprised that Tesla drivers are very happy with their cars even with the horror stories revolving around service centers or price changes soon after purchase. Tesla has a devoted fanbase sometimes it's equated to a cult-like following. People who post negative content about tesla are often bombarded with insults and a slew of dislikes.   
 
 https://www.consumerreports.org/car-reliability-owner-satisfaction/car-brands-ranked-by-owner-satisfaction/
 
@@ -182,11 +182,11 @@ A summary of some of the highlights (lowlights?):
 #Some negatives claims about Tesla 
 They don't have enough demand vs delivery - https://www.fool.com/investing/`019/04/28/elon-musk-comment-should-terrify-tesla-investors.aspx
 Full Self Driving (FSD) isn't achievable within 10 years
-They open sourced all their patents - any competitor can use their technology
+They open-sourced all their patents - any competitor can use their technology
 China
 
 #### What makes Tesla have potential
-EV vehicles are very likely the future. I believe the vast majority of gas cars (if not all) will be replaced EVs by 2050 in the US. (energy efficiency, Gov't is incentivized to reduce pollution, reduce dependency on foreign oil, protect its citizens) - ener
+EV vehicles are very likely the future of the automotive world. I believe the vast majority of gas cars (if not all) will be replaced EVs by 2050 in the US. (energy efficiency, Gov't is incentivized to reduce pollution, reduce dependency on foreign oil, protect its citizens)
 This a huge 
 Product quality (yes, this was repeated)
 
@@ -199,15 +199,15 @@ what patents does it have?
 
 What companies does it own? 
 
-it has 22 billions dollars in assets 
+it has 22 billion dollars in assets 
 
-cost cutting, dependency on debt 
+cost-cutting, dependency on debt 
 
 Model 3 product recall could be devastating 
 
 # Concluding Thoughts
 
-Whether you hate or love tesla, few could argue that Tesla isn't accomplishing their mission - to accelerate the world’s transition to sustainable energy. I personally think it has had a very strong net positive on the world. I hope for their continued success and believe they will succeed which is partly why I own Tesla stock myself. 
+Whether you hate or love tesla, few could argue that Tesla isn't accomplishing their mission - to accelerate the world’s transition to sustainable energy. I think it has had a very strong net positive on the world. I hope for their continued success and believe they will succeed which is partly why I own Tesla stock myself. 
 
 Please share your thoughts!
 
