@@ -4,11 +4,11 @@ date: 2019-05-27
 linktitle: Tesla an In-Depth Analysis
 next: /tutorials/github-pages-blog
 prev: /tutorials/automated-deployments
-title: Tesla an In-Depth Analysis
+title: Tesla an In-Depth Analysis, Part 1
 weight: 10
 ---
 
-# Setting the Scene
+# One Little Tweet
 
 Tesla is one of the most divisive stocks since it went public in 2010. Presently, Tesla's stock is one of the most highly traded stocks with an average volume of 11 million trades every day. It is currently sitting at $190 nearly half of what it was five months ago when Elon Musk famously announced: 
 
@@ -24,15 +24,13 @@ When there's a lot of controversy it becomes very difficult to sift through all 
 
 Through my research, one thing I'm sure of is that Tesla certainly has and is continuing to disrupt the automotive industry. We are living in a special time in history. The last time the automotive industry was disrupted like this was in 1908 when the Model T was released. 
 
-# Signposting the Analysis
+# Why am I reading this?
 
 This post will be a holistic overview. This analysis has an outlook of about 10 to 20 years of the EV industry and Tesla. Warning this post is long. Unlike other posts out there, this isn't about scaring people or clickbait. It's an attempt at a thoughtful analysis focused on fact.  
  
-This post is a "living" document and can and will be updated over time.
+This post is a "living" document and may be updated over time.
 
-The post is organized in order of what I consider the most fundamental questions. Will the EV market supersede the ICE market? Will Tesla's products be more competitive than the competition? Is Tesla's balance sheet sufficient to make it to the long term?
-
-I first heard about Elon Musk circa 2008. My cousin was telling me how there's a private space company led by a guy named Elon Musk. It seemed so absurd - how could a private company afford to be launching rockets? Only the government could manage to do something like that. Soon after I ended up reading about Elon Musk. Ever since then I've been an avid listener of his ideas and goals. I believe after studying him for this long I've gained a sense of his psychology and what motivates him. 
+So what will be talking about today? First some thoughts on the stock markets and how to think about them. Then we will delve into whether the EV market will supersede the ICE market? Will Tesla's vehicles be more competitive than competing EV's? Is Tesla's balance sheet sufficient to make it to the long term?
 
 
 # Truthfulness & Biases
@@ -60,17 +58,21 @@ That means that EV's are roughly 3x times more energy-efficient *even if they we
 
 Update: as of Aug. 30, 2020, the numbers are even better for EV's: "EVs convert over 77% of the electrical energy from the grid to power at the wheels. Conventional gasoline vehicles only convert about 12%–30% of the energy stored in gasoline to power at the wheel".
 
-## Maintenance Costs 
+## Maintenance & Insurance Costs 
+
+I recommend reading the articles below but the synopsis for EV's is:
+    - There is more tire replacement due to high vehicle weight from battery
+    - Battery replace will be necessary every 10-15 years
+    - Fewer moving parts to maintain (spark plugs, wires. muffler) 
+    - Fewer fluids (no oil or transmission fluid)
+    - Less wear & tear on breaks (through regenerative breaking)
+    - Insurance costs are relatively high for luxury vehicles but could decrease from Tesla Insurance
 
 https://insideevs.com/news/317307/ev-vs-ice-maintenance-the-first-100000-miles
 https://techcrunch.com/2020/03/06/electric-vehicles-are-changing-the-future-of-auto-maintenance/
-    - more tire replacement due to high vehicle weight from battery
 https://hbr.org/2019/05/teslas-strong-brand-gives-it-unusual-expansion-potential
 https://www.energy.gov/eere/electricvehicles/electric-car-safety-maintenance-and-battery-life
-    - less moving parts 
-    - less fluids (no oil or transmission fluid)
-    - less wear & tear on breaks (through regenerative breaking)
-Tesla insurance product. 
+
 
 # Big Opportunities 
 
@@ -114,7 +116,7 @@ https://eu-evs.com/
 
 ## Customer Satisfaction 
 
-It may come to no surprised that Tesla drivers are very happy with their cars even with the horror stories revolving around service centers or price changes soon after purchase. Tesla has a devoted fanbase sometimes it's equated to a cult-like following. People who post negative content about tesla are often bombarded with insults and a slew of dislikes.   
+It may come to no surprise to some that Tesla owners have the highest satisfaction of any brand. They are very happy with their cars even with the horror stories revolving around [service centers](https://www.sfgate.com/cars/article/tesla-repair-wait-time-complaints-electric-car-13796037.php) or price changes soon after purchase. Tesla has a devoted fanbase sometimes it's equated to a cult-like following. People who post negative content about Tesla are often bombarded with insults and a slew of dislikes.
 
 https://www.consumerreports.org/car-reliability-owner-satisfaction/car-brands-ranked-by-owner-satisfaction/
 
@@ -156,14 +158,6 @@ Automated trucks $$$ \
  targets), Musk would receive an additional 1.69 million company shares. If he met all targets, he stood
  to gain some $55 billion in equity. But if he failed, he would not be compensated at all" - Harvard Business Review
 
-# Long term outlook
-
-Often times it's argued that the long term is more predictable than the short term. 
-
-# Medium term outlook
-
-# Short term outlook
-
 
 #Some true negative statements about Tesla
 Yes, it's valued more than Ford even though Ford's revenue is nearly 8x more.
@@ -183,7 +177,7 @@ A summary of some of the highlights (lowlights?):
 They don't have enough demand vs delivery - https://www.fool.com/investing/`019/04/28/elon-musk-comment-should-terrify-tesla-investors.aspx
 Full Self Driving (FSD) isn't achievable within 10 years
 They open-sourced all their patents - any competitor can use their technology
-China
+China isn't interested in an American Electric Car. 
 
 #### What makes Tesla have potential
 EV vehicles are very likely the future of the automotive world. I believe the vast majority of gas cars (if not all) will be replaced EVs by 2050 in the US. (energy efficiency, Gov't is incentivized to reduce pollution, reduce dependency on foreign oil, protect its citizens)
@@ -207,7 +201,7 @@ Model 3 product recall could be devastating
 
 # Concluding Thoughts
 
-Whether you hate or love tesla, few could argue that Tesla isn't accomplishing their mission - to accelerate the world’s transition to sustainable energy. I think it has had a very strong net positive on the world. I hope for their continued success and believe they will succeed which is partly why I own Tesla stock myself. 
+Whether you hate or love tesla, few could argue that Tesla isn't accomplishing their mission to accelerate the world’s transition to sustainable energy. I think it has had a very strong net positive on the world. I hope for their continued success and believe they will succeed which is partly why I own Tesla stock myself. 
 
 Please share your thoughts!
 
@@ -246,3 +240,6 @@ Elon has started many companies. Interestingly, Tesla was not one of them. Tesla
 Let's take a look at some graphs to get a sense of Tesla' progress since 2010 (when they went public)
 
 All graphs are from https://www.macrotrends.net/ for the timeframe 03/31/2010 to 01/01/2019
+
+
+https://www.sfgate.com/cars/article/tesla-repair-wait-time-complaints-electric-car-13796037.php
