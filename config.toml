@@ -22,7 +22,7 @@ custom_css = "/static/css/custom.css"
   authorwebsite = "chriswalz.com"
   avatar = "/images/personal/chris_portrait.jpg"
   contact = "chris@gosecret.io"
-  bio = "Like Christoph Waltz but without the topht "
+  bio = ""
   # Short subtitle/tagline. This is displayed in the header.
   subtitle = ""
   # Logo image. This is displayed ogp image.

@@ -1,14 +1,11 @@
 ---
 author: "Chris Walz"
 date: 2020-10-18
-linktitle: An Interview With Chris Walz of bit
-next: /tutorials/github-pages-blog
-prev: /tutorials/automated-deployments
 title: An Interview With Chris Walz of bit
 weight: 10
 ---
 
-*This interview was hosted by Jackson Kelly from Console originally posted [here](https://console.substack.com/p/console-23)*
+*This interview was hosted by Jackson Kelley from Console originally posted [here](https://console.substack.com/p/console-23)*
 
 ### What is your background?
 
