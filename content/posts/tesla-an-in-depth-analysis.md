@@ -24,11 +24,9 @@ When there's a lot of controversy it becomes very difficult to sift through all 
 
 Through my research, one thing I'm sure of is that Tesla certainly has and is continuing to disrupt the automotive industry. We are living in a special time in history. The last time the automotive industry was disrupted like this was in 1908 when the Model T was released. 
 
-# Why am I reading this?
+# What topics will be discussed?
 
-This post will be a holistic overview. This analysis has an outlook of about 10 to 20 years of the EV industry and Tesla. Warning this post is long. Unlike other posts out there, this isn't about scaring people or clickbait. It's an attempt at a thoughtful analysis focused on fact.  
- 
-This post is a "living" document and may be updated over time.
+This post will be a holistic overview. This analysis has an outlook of about 10 to 20 years of the EV industry and Tesla. Warning this post is long. Unlike other posts out there, this isn't about scaring people or clickbait. It's an attempt at a thoughtful analysis focused on fact – no BuzzFeed listicles here!  
 
 So what will be talking about today? First some thoughts on the stock markets and how to think about them. Then we will delve into whether the EV market will supersede the ICE market? Will Tesla's vehicles be more competitive than competing EV's? Is Tesla's balance sheet sufficient to make it to the long term?
 
@@ -38,11 +36,11 @@ In this day and age, it's very easy to lie with graphs and numbers. As someone w
 
 I also want to acknowledge that I (as is everyone else) is subject to the human condition. I am susceptible to in-group out-group bias, availability bias, and confirmation bias as well as all the pleasantries of the amygdala.
 
-I do my best to reduce the effect of these biases in my analysis.
+I'll do my best to compensate for these biases in the analysis.
 
 # A Note on Stock Markets
 
-I believe in a weak version of the EMH - that every stock price is a rough approximation of its true value. I know this a bit controversial; however, the way I see it is that I respect the huge agglomeration of minds that together are in a chaotic yet beautiful constant state of valuing companies. I respect that giant mass of distributed brain power (machines too) and believe it is much smarter than me (at least most of the time 😉). The stock market is considered a level 2 chaotic system so needless to say it's difficult for an observer to predict the future value of a stock. Also, humans are emotional (perhaps their algorithmic machines are too). Kahneman in "Thinking Fast and Slow" has some interesting thoughts on this and does give merit to why the markets are NOT very efficient.  
+I believe in a weak version of the EMH - that every stock price is a rough approximation of its true value. I know this a bit controversial; however, the way I see it is that I respect the huge agglomeration of minds that together are in a chaotic yet beautiful constant state of valuing companies. I respect that giant mass of distributed brain power (machines too) and believe in many respects that it is much smarter than me (at least most of the time 😉). The stock market is considered a level 2 chaotic system so needless to say it's difficult for an observer to predict the future value of a stock. Also, humans are emotional (perhaps their algorithmic machines are too). Kahneman in "Thinking Fast and Slow" has some interesting thoughts on this and does give merit to why the markets are NOT very efficient.  
 
 
 # Electric Vehicles vs. Internal Combustion Engine Vehicles
@@ -173,11 +171,16 @@ A summary of some of the highlights (lowlights?):
     - government regulations 
     - a pandemic
 
-#Some negatives claims about Tesla 
+# Some risks for Tesla 
 They don't have enough demand vs delivery - https://www.fool.com/investing/`019/04/28/elon-musk-comment-should-terrify-tesla-investors.aspx
 Full Self Driving (FSD) isn't achievable within 10 years
-They open-sourced all their patents - any competitor can use their technology
-China isn't interested in an American Electric Car. 
+[They open-sourced all their patents](https://www.tesla.com/blog/all-our-patent-are-belong-you) - any competitor can use their technology (there are contingencies however)
+China could possibly isn't interested in an American Electric Car. 
+[Fleet wide hacks](https://electrek.co/2020/08/27/tesla-hack-control-over-entire-fleet/)
+Vehicle recalls (additional risk because of software?)
+
+
+
 
 #### What makes Tesla have potential
 EV vehicles are very likely the future of the automotive world. I believe the vast majority of gas cars (if not all) will be replaced EVs by 2050 in the US. (energy efficiency, Gov't is incentivized to reduce pollution, reduce dependency on foreign oil, protect its citizens)
@@ -232,6 +235,8 @@ https://observer.com
 # Additional Notes
 
 I began writing this post on 2019-04-28.
+
+This post is a "living" document and may be updated over time. 
 
 # Staging Area
 

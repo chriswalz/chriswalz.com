@@ -2,7 +2,7 @@
 author: "Chris Walz"
 date: 2019-04-27
 draft: false
-linktitle: Books that changed how I see the world
+linktitle: Some of my favorite books
 menu:
   main:
     parent: tutorials
@@ -23,15 +23,15 @@ A book about cognitive biases. If you have a better understanding of your biases
 
 ### **Homo Sapiens**
 
-An excellent history of humanity. 
+An in depth history of humanity. 
 
 ### Shoe Dog
 
 Understanding the tumultuous but exciting journey of the founder of Nike. 
 
-### Elon Musk
+### Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future
 
-Elon Musk is certainly not a book but his way of thinking especially using first principles thinking are quite influential. 
+Elon Musk. 
 
 
 
