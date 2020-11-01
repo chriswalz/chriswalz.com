@@ -8,10 +8,10 @@ title: An Interview With Chris Walz of bit
 weight: 10
 ---
 
-# An Interview With Chris Walz of bit
+*This interview was hosted by Jackson Kelly from Console originally posted [here](https://console.substack.com/p/console-23)*
 
 ### What is your background?
-j
+
 I was born and raised in NY. I started off with the privilege of working as an intern at Google. I then moved on to working in FinTech, InsurTech, and now Construction Tech (ConstruTech?). I enjoy my fair share of table tennis and gaming. (Fun fact: I once reached the #1 rank on the StarCraft 2 ladder (2v2s))
 
 My first foray into programming was in High School. I took a computer science intro course and made some cool things like a flash game where each sprite was a meme from Reddit rage comics. However, I didn’t feel confident in my programming abilities and ended up majoring in Accounting instead. I quickly realized that Accounting was not for me 😅 and switched to Finance. Halfway through college, I started reading about programming and it “clicked”. I began experimenting with Android programming (Shout out to [The Big Nerd Ranch Guide](https://www.amazon.com/Android-Programming-Ranch-Guide-Guides/dp/0321804333)) and never stopped coding since then. You can check out my old Flappy Bird inspired Android game [here](https://play.google.com/store/apps/details?id=com.walz.joltimate.downfall2&hl=en_US). All in all, I graduated with a B.S. in Finance and a minor in Computer Science. 
